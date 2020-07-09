@@ -6,7 +6,7 @@ namespace Application
     {
         private void empty()
         {
-            
+            int number = 3;
         }
     }
 }
