@@ -1,0 +1,9 @@
+D:\GitHub Projects\Reactivities\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\GitHub Projects\Reactivities\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\GitHub Projects\Reactivities\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\GitHub Projects\Reactivities\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\GitHub Projects\Reactivities\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\GitHub Projects\Reactivities\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\GitHub Projects\Reactivities\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\Reactivities\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\GitHub Projects\Reactivities\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

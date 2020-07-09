@@ -1,0 +1,12 @@
+D:\GitHub Projects\Reactivities\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+D:\GitHub Projects\Reactivities\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+D:\GitHub Projects\Reactivities\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+D:\GitHub Projects\Reactivities\Persistence\bin\Debug\netcoreapp3.1\Domain.dll
+D:\GitHub Projects\Reactivities\Persistence\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\GitHub Projects\Reactivities\Persistence\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+D:\GitHub Projects\Reactivities\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+D:\GitHub Projects\Reactivities\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+D:\GitHub Projects\Reactivities\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\Reactivities\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+D:\GitHub Projects\Reactivities\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+D:\GitHub Projects\Reactivities\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
